@@ -1,2 +1,0 @@
-"# GroceryIdentificationInSmartRefrigeratorsUsingTransferLearning" 
-"# GroceryIdentificationInSmartRefrigeratorsUsingTransferLearning" 
