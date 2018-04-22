@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'cabbage'
+}
+
+item {
+  id: 2
+  name: 'tomato'
+}
+
+item {
+  id: 3
+  name: 'yellow-bellpepper'
+}
+
